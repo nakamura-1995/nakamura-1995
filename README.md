@@ -14,7 +14,7 @@ I'm a solution architect, trainer, mentor, and full stack developer with 6 years
 ## GitHub Stats
 
 <a href="https://github.com/nakamura-1995">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JasonTaylorDev&show_icons=true&theme=shades-of-purple&count_private=true" alt="Nakamura's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonTaylorDev&theme=shades-of-purple&layout=compact" 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakamura-1995&show_icons=true&theme=shades-of-purple&count_private=true" alt="Nakamura's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakamura-1995&theme=shades-of-purple&layout=compact" 
     alt="Nakamura GitHub Top Languages" />
 </a>
